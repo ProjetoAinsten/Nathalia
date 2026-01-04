@@ -1,0 +1,8 @@
+{
+  "name": "ok",
+  "description": "Logical reasoning interface optimized for mobile interaction via Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
